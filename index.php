@@ -72,7 +72,7 @@
             <div class="row bd">
                 <div class="col-sm-12">
                     <h2>You can watch</h2>
-                    <p>Vansassa, her cousin Igor, and their Japanese grandfather sing about bubble boy Falcon Heene after he flew over into the studio in his spaceship.  We're all aliens.</p>
+                    <p>Vansassa, her cousin xIgor, and their Japanese grandfather sing about bubble boy Falcon Heene after he flew over into the studio in his spaceship.  We're all aliens.</p>
                     <div class='embed-container'><iframe src='http://www.youtube.com/embed/gWd32HlYLQk' frameborder='0' allowfullscreen></iframe></div>
                     <p>Watch Vansassa song "Stuff My Stocking" on youtube.  Song was entry in 2011 Moog Music Animoog Holiday Song Contest.</p>
                     <div class='embed-container'><iframe src='http://www.youtube.com/embed/z4rgxIi9RTk' frameborder='0' allowfullscreen></iframe></div>
