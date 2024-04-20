@@ -15,10 +15,10 @@
             	background: #000 url(stuff/bg.webp) top center no-repeat;
             }
             .lead {
-                font-size: 28px;
+                font-size: 24px;
             }
             h2 {
-                font-size: 48px;
+                font-size: 28px;
                 font-weight: 300;
                 margin: 0 0 20px 0;
             }
