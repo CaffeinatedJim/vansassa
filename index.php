@@ -14,9 +14,6 @@
                 font-weight: 300;
             	background: #000 url(stuff/bg.webp) top center no-repeat;
             }
-            .lead {
-                font-size: 24px;
-            }
             h2 {
                 font-size: 28px;
                 font-weight: 300;
@@ -58,7 +55,7 @@
                 <div class="col-sm-8">
                     <h1 class="sr-only sr-only-focusable">Vansassa</h1>
                     <h2>Vansassa songs, you listen.</h2>
-                    <p class="lead">Listen or download Vansassa 7 song album<br />"<a href="https://vansassa.bandcamp.com/album/songs-to-sing-to-the-children" title="Songs to Sing to the Children">Songs to Sing to the Children</a>" for no monies!</p>
+                    <p>Listen or download Vansassa 7 song album<br />"<a href="https://vansassa.bandcamp.com/album/songs-to-sing-to-the-children" title="Songs to Sing to the Children">Songs to Sing to the Children</a>" for no monies!</p>
                     <p>It is the good. Vansassa is recording artist from great city of Chicago. She is traveler of first class in airplane of around the world thinking about cats that bring her inspiration of the music. This album is now in existence because children do not listen worse than the monkey. Children should clean house good.</p>
                     <p>Vansassa had help of many people who will do as she say, not as she does, because is impossible for average person to achieve. It is ok. So now maybe you and your children will listen to her as well. Children should be quiet in clean room early to bed. She would like to thank you the fans, and for them to know if they have nothing nice to say, then say it to the children.</p>
                 </div>
