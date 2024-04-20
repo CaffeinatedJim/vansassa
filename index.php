@@ -20,7 +20,6 @@
             h2 {
                 font-size: 28px;
                 font-weight: 300;
-                margin: 0 0 20px 0;
             }
             .hd {margin: 0;}
             .hd img {width: 100%; height: auto;}
