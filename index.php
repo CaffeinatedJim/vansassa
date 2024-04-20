@@ -7,7 +7,7 @@
         <title>Vansassa.com</title>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
-        <link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
         <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
         <!--[if lt IE 9]>
@@ -48,7 +48,7 @@
         <div class="container">
             <div class="row hd">
                 <div class="col-sm-12">
-                    <img src="http://f1.bcbits.com/img/0000420118_100.png" alt="Vansassa" />
+                    <img src="https://f1.bcbits.com/img/0000420118_100.png" alt="Vansassa" />
                 </div>
             </div>
         </div>
@@ -56,12 +56,12 @@
             <div class="row bd">
                 <div class="col-sm-8">
                     <h2>You can listen</h2>
-                    <p><strong>Listen or download Vansassa 7 song album<br />"<a href="http://vansassa.bandcamp.com/album/songs-to-sing-to-the-children" title="Songs to Sing to the Children">Songs to Sing to the Children</a>" for free!</strong></p>
+                    <p><strong>Listen or download Vansassa 7 song album<br />"<a href="https://vansassa.bandcamp.com/album/songs-to-sing-to-the-children" title="Songs to Sing to the Children">Songs to Sing to the Children</a>" for free!</strong></p>
                     <p>It is the good. Vansassa is recording artist from great city of Chicago. She is traveler of first class in airplane of around the world thinking about cats that bring her inspiration of the music. This album is now in existence because children do not listen worse than the monkey. Children should clean house good.</p>
                     <p>Vansassa had help of many people who will do as she say, not as she does, because is impossible for average person to achieve. It is ok. So now maybe you and your children will listen to her as well. Children should be quiet in clean room early to bed. She would like to thank you the fans, and for them to know if they have nothing nice to say, then say it to the children.</p>
                 </div>
                 <div class="col-sm-4">
-                    <div class='embed-container-bandcamp'><iframe style='border: 0;' src='https://bandcamp.com/EmbeddedPlayer/album=3425327455/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/transparent=true/' seamless><a href='http://vansassa.bandcamp.com/album/songs-to-sing-to-the-children'>Songs to Sing to the Children by Vansassa</a></iframe></div>
+                    <div class='embed-container-bandcamp'><iframe style='border: 0;' src='https://bandcamp.com/EmbeddedPlayer/album=3425327455/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/transparent=true/' seamless><a href='https://vansassa.bandcamp.com/album/songs-to-sing-to-the-children'>Songs to Sing to the Children by Vansassa</a></iframe></div>
                 </div>
             </div>
             <!--
@@ -69,7 +69,7 @@
                 <div class="col-sm-12">
                     <h2>You can watch</h2>
                     <p>Vanda y Marek do dramatic interpretation of Secret Letter Sent to Pierogi Party.  You better hide your jewelry.</p>
-                    <div class='embed-container'><iframe src='http://www.youtube.com/embed/iMecCJw09sM' frameborder='0' allowfullscreen></iframe></div>
+                    <div class='embed-container'><iframe src='https://www.youtube.com/embed/iMecCJw09sM' frameborder='0' allowfullscreen></iframe></div>
                 </div>
             </div>
             -->
