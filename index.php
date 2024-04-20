@@ -64,13 +64,15 @@
                     <div class='embed-container-bandcamp'><iframe style='border: 0;' src='https://bandcamp.com/EmbeddedPlayer/album=3425327455/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/transparent=true/' seamless><a href='http://vansassa.bandcamp.com/album/songs-to-sing-to-the-children'>Songs to Sing to the Children by Vansassa</a></iframe></div>
                 </div>
             </div>
+            <!--
             <div class="row bd">
                 <div class="col-sm-12">
                     <h2>You can watch</h2>
                     <p>Vanda y Marek do dramatic interpretation of Secret Letter Sent to Pierogi Party.  You better hide your jewelry.</p>
                     <div class='embed-container'><iframe src='http://www.youtube.com/embed/iMecCJw09sM' frameborder='0' allowfullscreen></iframe></div>
                 </div>
-          </div>
+            </div>
+            -->
         </div>
     </body>
 </html>
