@@ -7,12 +7,17 @@
         <title>Vansassa.com</title>
         <meta name="description" content="Vansassa website, you like.">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" defer>
-        <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
         <style type="text/css">
             body {
-                font-family: 'Montserrat', sans-serif;
+                font-family: "Helvetica Neue", "Segoe UI", Segoe, Helvetica, Arial, "Lucida Grande", sans-serif;
                 font-size: 20px;
-            	background: #000 url(stuff/vansassa-parade-bg.webp) top center no-repeat;
+                font-weight: 300;
+            	background: #000 url(stuff/bg.webp) top center no-repeat;
+            }
+            h1 {
+                font-size: 48px;
+                font-weight: 300;
+                margin: 0 0 20px 0;
             }
             .hd {margin: 0;}
             .hd img {width: 100%; height: auto;}
